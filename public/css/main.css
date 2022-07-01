@@ -1,0 +1,21 @@
+main{
+    background-color: var(--amarillo);
+    margin-top: 0%; 
+}
+
+article img{
+    margin-top: 10%;
+    width: 370px;
+    height: 370px;
+}
+
+main h1{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 24px;
+}
+
+main h4{
+    padding-bottom: 40px;
+    font-size: 18px;
+}
